@@ -10,7 +10,7 @@ This repository showcases various mini projects built using ReactJS, highlightin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/reactjs-mini-projects.git
+   git clone https://github.com/sarthakwagh16/reactjs-projects.git
    ```
    
 2. Navigate to a project folder:
